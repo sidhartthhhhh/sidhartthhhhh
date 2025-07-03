@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2Q4anFzd254eTc2ZHoxdTRnZmcwcnpsa2xhZzhmbjF6emlmdHVicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jtXRDVzaCPXSynUz7h/giphy.gif" width="100%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzY1d3FjZ3UxZXQ4dW9tdWU5aHhmczl3Yml0bHN3Ym5wcG05bzdnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" width="800" height="400" />
+</p>
 
 # 👋 Hello there! I’m Sidharth — your friendly neighborhood coder 🧠
 
