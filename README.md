@@ -1,16 +1,37 @@
-## Hi there 👋
+<img src="[https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gi](https://drive.google.com/file/d/1sbf0QOoPHg9hhKS51CufJSGwXLYrHKaY/view?usp=sharing)" width="100%" />
 
-<!--
-**sidhartthhhhh/sidhartthhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello there! I’m Sidharth — your friendly neighborhood coder 🧠
 
-Here are some ideas to get you started:
+🎯 I love solving real-world problems using tech.  
+💻 Currently working with Python, React, Node.js, Django, SQL  
+🚀 I enjoy building full-stack apps, testing tools, and dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚒️ What I’m Doing
+
+- 🔧 Improving internal tools for utility operations (SAP ISU)
+- 🧠 Learning deeper backend and scalable architectures
+- 🌱 Exploring cloud platforms (AWS, Firebase) and CI/CD pipelines
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 📫 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sidhartthhhhh712@gmail.com)
+
+---
+
+> “Growing until, mean equals the average.” — Me 😄
