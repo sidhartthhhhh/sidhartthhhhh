@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZTNmbzlyMWpmcTU1M2xtYWtmdjlvZ3hhYnhoaGcydTJ6bGdkYnF5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t08eTJS6UJmHMghP1S/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2Q4anFzd254eTc2ZHoxdTRnZmcwcnpsa2xhZzhmbjF6emlmdHVicSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jtXRDVzaCPXSynUz7h/giphy.gif" width="100%" />
 
 # 👋 Hello there! I’m Sidharth — your friendly neighborhood coder 🧠
 
