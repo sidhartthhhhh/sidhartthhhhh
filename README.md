@@ -1,20 +1,26 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzY1d3FjZ3UxZXQ4dW9tdWU5aHhmczl3Yml0bHN3Ym5wcG05bzdnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" width="800" height="400" />
+  <img src="https://drive.google.com/uc?export=view&id=1sbf0QOoPHg9hhKS51CufJSGwXLYrHKaY" width="800" height="400" />
 </p>
 
-# 👋 Hello there! I’m Sidharth — your friendly neighborhood coder 🧠
+# 👋 Hello there! I’m Sidharth — Aspiring Software Developer 🧠
 
-🎯 I love solving real-world problems using tech.  
-💻 Currently working with Python, React, Node.js, Django, SQL  
-🚀 I enjoy building full-stack apps, testing tools, and dashboards.
+🔧 I specialize in full-stack web development, backend integration, and data handling for enterprise and cloud-based applications.  
+🚀 Currently working on real-time internal tools and dashboards built on SAP ISU modules.  
+📚 Always learning and experimenting with scalable, secure, and modern solutions in the cloud, ML, and automation domains.
 
 ---
 
-## ⚒️ What I’m Doing
+## 📜 Certifications
 
-- 🔧 Improving internal tools for utility operations (SAP ISU)
-- 🧠 Learning deeper backend and scalable architectures
-- 🌱 Exploring cloud platforms (AWS, Firebase) and CI/CD pipelines
+- ✅ **Python** – HackerRank (2025)  
+- ✅ **SQL** – HackerRank (2025)  
+- ☁️ **AWS Solution Architecture Simulation** – Forge (2025)
+
+---
+
+## 📈 GitHub Stats
+
+![Sidharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidhartthhhhh&show_icons=true&theme=tokyonight)
 
 ---
 
