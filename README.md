@@ -1,4 +1,4 @@
-<img src="[[https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gi](https://drive.google.com/file/d/1sbf0QOoPHg9hhKS51CufJSGwXLYrHKaY/view?usp=sharing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjain-rithik%2Fjain-rithik&psig=AOvVaw0cEFS3Hg3z2_7zgSz6r6Ci&ust=1751622953129000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKivo5-2oI4DFQAAAAAdAAAAABAE))" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZTNmbzlyMWpmcTU1M2xtYWtmdjlvZ3hhYnhoaGcydTJ6bGdkYnF5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t08eTJS6UJmHMghP1S/giphy.gif" width="100%" />
 
 # 👋 Hello there! I’m Sidharth — your friendly neighborhood coder 🧠
 
