@@ -15,7 +15,8 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=sidhartthhhhh&theme=radical&v=2)
+![Streak](https://img.shields.io/badge/Daily%20Streak-check%20profile-green)
+
 
 
 ---
