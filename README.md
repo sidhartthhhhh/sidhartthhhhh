@@ -15,13 +15,6 @@
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sidhartthhhhh&theme=radical&v=1" alt="GitHub Streak"/>
-
-
-
-
----
-
 ## 🧠 Skills & Tech Stack
 
 ### 🖥️ Languages & Fundamentals
