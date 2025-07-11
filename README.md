@@ -10,16 +10,6 @@
 
 ---
 
-## 📜 Certifications
-
-- ✅ **Python** – HackerRank (2025)  
-- ✅ **SQL** – HackerRank (2025)  
-- ☁️ **AWS Solution Architecture Simulation** – Forge (2025)
-  
----
-
-
-
 ![Sidharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidhartthhhhh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhartthhhhh&layout=compact&theme=radical)
 
