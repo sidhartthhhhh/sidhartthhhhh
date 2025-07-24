@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1sbf0QOoPHg9hhKS51CufJSGwXLYrHKaY" width="800" height="400" />
 </p>
 
-# 👋 Hello there! I’m Sidharth — Aspiring Software Developer 🧠
+# 👋 Hello there! I’m Sidhartha — Aspiring Software Developer 🧠
 
 🔧 I specialize in full-stack web development, backend integration, and data handling for enterprise and cloud-based applications.  
 🚀 Currently working on real-time internal tools and dashboards built on SAP ISU modules.  
