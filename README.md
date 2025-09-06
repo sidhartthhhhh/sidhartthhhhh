@@ -1,4 +1,4 @@
-### 🐍 My GitHub Contribution Snake
+
 
 ## 🐍 Contribution Snake
 
