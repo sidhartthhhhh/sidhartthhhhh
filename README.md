@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1sbf0QOoPHg9hhKS51CufJSGwXLYrHKaY" width="800" height="400" />
-</p>
+### 🐍 My GitHub Contribution Snake
+
+![Snake SVG](./assets/github-contribution-grid-snake.svg)
+
+<!-- Animated GIF version -->
+![Snake GIF](./assets/github-contribution-grid-snake.gif)
 
 # 👋 Hello there! I’m Sidhartha — Aspiring Software Developer 🧠
 
