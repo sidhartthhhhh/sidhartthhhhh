@@ -1,9 +1,12 @@
 ### 🐍 My GitHub Contribution Snake
 
-![Snake SVG](./assets/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
 
-<!-- Animated GIF version -->
-![Snake GIF](./assets/github-contribution-grid-snake.gif)
+<!-- Light mode -->
+![GitHub Contribution Snake Light](./assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<!-- Dark mode -->
+![GitHub Contribution Snake Dark](./assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 # 👋 Hello there! I’m Sidhartha — Aspiring Software Developer 🧠
 
