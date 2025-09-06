@@ -1,0 +1,44 @@
+name: Generate GitHub Snake
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: sidhartthhhhh
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+
+      - name: Create assets folder and move generated files
+        run: |
+          mkdir -p assets
+          mv dist/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.svg
+          mv dist/github-contribution-grid-snake.gif assets/github-contribution-grid-snake.gif
+
+      - name: Commit and push snake
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.gif
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update contribution snake"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
