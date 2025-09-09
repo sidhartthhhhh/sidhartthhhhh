@@ -1,6 +1,5 @@
 
 
-## 🐍 Contribution Snake
 
 <!-- Light mode -->
 ![GitHub Contribution Snake Light](./assets/github-contribution-grid-snake.svg#gh-light-mode-only)
