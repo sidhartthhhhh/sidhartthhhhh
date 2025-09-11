@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHhlY3hvNHJwdmVlYmMwY2p5eGwweHlydGVzZ3VkZjdvcmc4aHJxOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3ov9jQVpCYmbSE0t4k/giphy.gif"
-       width="640"
-       height="360"
+       width="840"
+       height="400"
        alt="Arcade Background GIF" />
 </div>
 
