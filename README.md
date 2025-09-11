@@ -1,11 +1,13 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHhlY3hvNHJwdmVlYmMwY2p5eGwweHlydGVzZ3VkZjdvcmc4aHJxOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3ov9jQVpCYmbSE0t4k/giphy.gif"
+       width="800"
+       height="450"
+       alt="Arcade Background GIF" />
+</div>
 
 
 
-<!-- Light mode -->
-![GitHub Contribution Snake Light](./assets/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<!-- Dark mode -->
-![GitHub Contribution Snake Dark](./assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 # 👋 Hello there! I’m Sidhartha — Aspiring Software Developer 🧠
 
