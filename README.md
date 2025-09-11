@@ -1,4 +1,4 @@
-<img width="643" height="196" alt="image" src="https://github.com/user-attachments/assets/83ab2629-fa23-4e67-835f-e3c2f99f4a00" />
+
 
 
 <!-- Light mode -->
@@ -14,8 +14,6 @@
 📚 Always learning and experimenting with scalable, secure, and modern solutions in the cloud, ML, and automation domains.
 
 ---
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sidhartthhhh&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhartthhhhh&layout=compact&theme=radical)
 
