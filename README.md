@@ -14,9 +14,7 @@
 📚 Always learning and experimenting with scalable, secure, and modern solutions in the cloud, ML, and automation domains.
 
 ---
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhartthhhhh&layout=compact&theme=radical)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidhartthhhhh&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 ---
 
 ## 🧠 Skills & Tech Stack
