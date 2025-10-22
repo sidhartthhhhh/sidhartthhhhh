@@ -4,7 +4,7 @@
 
 
 
-# 👋 Hello there! I’m Sidhartha — Aspiring Software Developer 🧠
+# 👋 Hello there! I’m Sidhartha — Aspiring Software Developer      🧠
 
 🔧 I specialize in full-stack web development, backend integration, and data handling for enterprise and cloud-based applications.  
 🚀 Currently working as Backend Dev @Logistos
