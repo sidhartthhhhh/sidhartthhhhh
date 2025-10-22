@@ -2,6 +2,8 @@
  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300"/>
 </div>
 
+
+
 # 👋 Hello there! I’m Sidhartha — Aspiring Software Developer 🧠
 
 🔧 I specialize in full-stack web development, backend integration, and data handling for enterprise and cloud-based applications.  
