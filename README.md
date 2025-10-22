@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1kWEKWOOS6tmdgdn1A0t1u_e6syXqUtyd" alt="My GIF" />
+  <img src="https://drive.google.com/uc?export=view&id=1kWEKWOOS6tmdgdn1A0t1u_e6syXqUtyd" alt="My GIF" width="800" height= "500" />
 </p>
 
 
