@@ -1,6 +1,7 @@
-<div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300"/>
-</div>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1kWEKWOOS6tmdgdn1A0t1u_e6syXqUtyd" alt="My GIF" />
+</p>
+
 
 # 👋 Hello there! I’m Sidhartha — Aspiring Software Developer 🧠
 
