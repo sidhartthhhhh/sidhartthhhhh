@@ -13,6 +13,13 @@
 📚 Always learning and experimenting with scalable, secure, and modern solutions in the cloud, ML, and automation domains.
 
 
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=sidhartthhhhh&theme=kimbie_dark&column=3&exclude=Followers,Issues,PullRequest" alt="sidhartthhhhh" />
+    </a>
+</p>
+
 ## 🧠 Skills & Tech Stack
 
 ### 🖥️ Languages & Fundamentals
