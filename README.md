@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sidhartthhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="sidhartthhhhh" />
 </p>
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1kWEKWOOS6tmdgdn1A0t1u_e6syXqUtyd" alt="My GIF" width="800" height= "500" />
-</p>
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sidhartthhhhh&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhartthhhhh&layout=compact" />
