@@ -23,7 +23,6 @@
 
 
 
-
 |  |
 | :---: |
 | [zomato-clone](https://github.com/sidhartthhhhh/zomato-clone) |
