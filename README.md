@@ -17,7 +17,7 @@
 <h2 align="left">Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,express,git,java,linux,mongodb,mysql,nodejs,postman,python,oracle" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,mongodb,mysql,postman,python,oracle" />
 </p>
 
 
